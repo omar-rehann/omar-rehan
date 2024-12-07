@@ -7,6 +7,11 @@ body {
     margin: 10px 10px;
 }
 
+.page section.two_cols div#frist {
+    border-radius: 10px;
+    background-color: #1e1e1f;
+}
+
 .page section.two_cols aside {
     background-color: #1e1e1f;
     border-radius: 10px;
@@ -123,7 +128,7 @@ body {
 }
 
 @media (min-width:992px) {
-    .page section.two_cols .concat .nav {
+    .page section.two_cols .blog .nav {
         background-color: #282829;
         display: flex;
         justify-content: flex-end;
@@ -131,15 +136,15 @@ body {
         padding: 0px;
         width: fit-content;
         position: absolute;
-        top: 20px;
-        right: 10px;
+        top: 21px;
+        right: 27px;
         border-bottom-left-radius: 20px;
         overflow: hidden;
     }
 }
 
 @media (max-width:992px) {
-    .page section.two_cols .concat .nav {
+    .page section.two_cols .blog .nav {
         background-color: #282829;
         display: flex;
         justify-content: center;
@@ -189,7 +194,6 @@ body {
 }
 
 .page section.two_cols .concat .nav ul li a {
-    margin: 10px;
     text-decoration: none;
     color: #878787;
     cursor: pointer;

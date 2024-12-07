@@ -132,7 +132,7 @@ body {
         width: fit-content;
         position: absolute;
         top: 20px;
-        right: 10px;
+        right: 27px;
         border-bottom-left-radius: 20px;
         overflow: hidden;
     }
@@ -147,8 +147,8 @@ body {
         padding: 0px;
         width: fit-content;
         position: absolute;
-        top: 20px;
-        right: 10px;
+        top: 22px;
+        right: 27px;
         margin-bottom: 20px;
         border-bottom-left-radius: 20px;
     }
@@ -189,7 +189,6 @@ body {
 }
 
 .page section.two_cols .concat .nav ul li a {
-    margin: 10px;
     text-decoration: none;
     color: #878787;
     cursor: pointer;
