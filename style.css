@@ -135,7 +135,7 @@ body {
         padding: 0px;
         width: fit-content;
         position: absolute;
-        top: 20px;
+        top: 21px;
         right: 27px;
         border-bottom-left-radius: 20px;
         overflow: hidden;
@@ -151,8 +151,8 @@ body {
         padding: 0px;
         width: fit-content;
         position: absolute;
-        top: 12px;
-        right: 15px;
+        top: 20px;
+        right: 27px;
         margin-bottom: 20px;
         border-bottom-left-radius: 20px;
     }
