@@ -6,6 +6,26 @@ all_links.forEach((e) => {
         if (e.id === "one") {
             section.innerHTML = `
               <div class="row">
+               <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/Logo.jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">John Doe</h5>
+                                            <a href="https://omar-rehann.github.io/John-Doe/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/urban.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Urban</h5>
+                                            <a href="https://omar-rehann.github.io/urban/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
                                 <div class="col-md-6 col-lg-4">
                                     <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/cv (2).jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
@@ -107,6 +127,16 @@ all_links.forEach((e) => {
                                 </div>
                                 <div class="col-md-6 col-lg-4">
                                     <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/elisa.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Elisa</h5>
+                                            <a href="https://omar-rehann.github.io/Elisa/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/gym.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
                                         <div class="card-body">
                                             <h5 class="card-title">Gym</h5>
@@ -135,8 +165,30 @@ all_links.forEach((e) => {
                                     </div>
 
                                 </div>
+                                 <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/start.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">flex Start</h5>
+                                            <a href="https://omar-rehann.github.io/Flex-Start/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/study.jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Online Study</h5>
+                                            <a href="https://omar-rehann.github.io/Online-study/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                  
 
                             </div>
+                            
             
             `
         } else if (e.id == "three") {
@@ -201,8 +253,30 @@ all_links.forEach((e) => {
                                             <a href="https://omar-rehann.github.io/CRUD/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
+                                    
 
                                 </div>
+                                   <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/master.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Matser Study</h5>
+                                            <a href="https://omar-rehann.github.io/Master-Study/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/elec.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Electronic Mart</h5>
+                                            <a href="https://omar-rehann.github.io/Electronic-Mart/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+
 
 
 
@@ -327,6 +401,36 @@ all_links.forEach((e) => {
                                         <div class="card-body">
                                             <h5 class="card-title">Generate Password</h5>
                                             <a href="https://omar-rehann.github.io/Generate-Password/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                 <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/startbacks.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">StarBacks</h5>
+                                            <a href="https://omar-rehann.github.io/StarBacks/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/adidas.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Adidas</h5>
+                                            <a href="https://omar-rehann.github.io/Adidas/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/iphone.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Iphone</h5>
+                                            <a href="https://omar-rehann.github.io/Iphone/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
 

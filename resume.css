@@ -147,7 +147,7 @@ body {
         padding: 0px;
         width: fit-content;
         position: absolute;
-        top: 22px;
+        top: 12px;
         right: 27px;
         margin-bottom: 20px;
         border-bottom-left-radius: 20px;
@@ -254,3 +254,20 @@ body {
 
 
 /* end about */
+
+
+/* start update */
+
+.page section.two_cols aside {
+    position: sticky;
+    /* خاصية التثبيت */
+    top: 20px;
+    /* المسافة بين العنصر وأعلى الصفحة أثناء التمرير */
+    background-color: #1e1e1f;
+    /* ألوان الخلفية */
+    padding: 15px;
+    border-radius: 10px;
+}
+
+
+/* end update */
