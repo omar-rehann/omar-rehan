@@ -95,6 +95,28 @@ all_links.forEach((e) => {
 
             section.innerHTML = `
               <div class="row">
+              <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/ress.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Resturant</h5>
+                                            <a href="https://omar-rehann.github.io/Resturant/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/footcap.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Foot Cap</h5>
+                                            <a href="https://omar-rehann.github.io/Foot-Cap/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+
                                 <div class="col-md-6 col-lg-4">
                                     <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/insustral.jpg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
@@ -201,6 +223,16 @@ all_links.forEach((e) => {
                                         <div class="card-body">
                                             <h5 class="card-title">Dynamic Collection</h5>
                                             <a href="https://omar-rehann.github.io/Dynamic-Collection/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                 <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/it.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">It Text</h5>
+                                            <a href="https://omar-rehann.github.io/it-text/" class="btn">Live Demo</a>
                                         </div>
                                     </div>
 
@@ -354,6 +386,37 @@ all_links.forEach((e) => {
         } else if (e.id == "five") {
             section.innerHTML = `
                <div class="row">
+                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/drink.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Drink Water</h5>
+                                            <a href="https://omar-rehann.github.io/Drink-Water/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/ver.png" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Verfiy Account</h5>
+                                            <a href="https://omar-rehann.github.io/Verfiy-Account/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
+
+                                <div class="col-md-6 col-lg-4">
+                                    <div class="card mt-2" style="width: 100%;">
+                                        <img src="imgproject/te.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
+                                        <div class="card-body">
+                                            <h5 class="card-title">Football Team</h5>
+                                            <a href="https://omar-rehann.github.io/Football-Team/" class="btn">Live Demo</a>
+                                        </div>
+                                    </div>
+
+                                </div>
                                 <div class="col-md-6 col-lg-4">
                                     <div class="card mt-2" style="width: 100%;">
                                         <img src="imgproject/warther.jpeg" style="width: 100%;height: 200px;" class="card-img-top rounded" alt="...">
